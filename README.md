@@ -1,4 +1,4 @@
-# Netflix Clone with ML-Powered Recommendations
+# Netflix Clone with Movie Recommendation System.
 
 ## Project Overview
 
